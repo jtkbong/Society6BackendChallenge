@@ -1,0 +1,22 @@
+<orders>
+    <order>
+        <customer_data>
+            <first_name>John</first_name>
+            <last_name>Doe</last_name>
+            <address1>123 Main Street</address1>
+            <address2/>
+            <city>Santa Monica</city>
+            <state>CA</state>
+            <zip>90014</zip>
+            <country>US</country>
+        </customer_data>
+        <items>
+            <item>
+                <order_number>12345</order_number>
+                <product_id>12</product_id>
+                <quantity>1</quantity>
+                <image_url>https://bucket.s3.amazonsaws.com/images/image.jpg</image_url>
+            </item>
+        </items>
+    </order>
+</orders>
